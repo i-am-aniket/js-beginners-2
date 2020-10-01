@@ -20,3 +20,5 @@ This example could be extended to illustrate:
 * the power of CSS to alter appearance
 * how a library such as jQuery could be used
 * how a library or plug-in to one could replace this code
+
+This project is made under HTML, CSS & Javascript(J.S.)
